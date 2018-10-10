@@ -1,4 +1,4 @@
-# monitorrent
+# monitorrent_test
 
 [![Build Status](https://travis-ci.org/werwolfby/monitorrent.svg?branch=develop)](https://travis-ci.org/werwolfby/monitorrent)
 [![Build status](https://ci.appveyor.com/api/projects/status/emt2y0jcya73lxj3?svg=true)](https://ci.appveyor.com/project/werwolfby/monitorrent)
